@@ -61,7 +61,6 @@ A robust Node.js/Express backend server for the Sampark Jyoti platform, connecti
 - User types (employer, laborer, farmer, buyer)
 - Skills, experience, ratings
 - Profile verification status
-- Location Based
 
 ### Job Model
 - Job details (title, description, category, location)
